@@ -1,4 +1,4 @@
 # PetClinicCareApplication
 An open source application for pet clinical operations 
 
-![working](./new.gif)
+![User Interface]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Muhammadraza771/PetClinicCareApplication/blob/main/new.gif))
