@@ -1,4 +1,4 @@
 # PetClinicCareApplication
-An open source application for pet clinic operations 
+An open source application for pet clinical operations 
 
-![working](/new.gif)
+![working](./new.gif)
